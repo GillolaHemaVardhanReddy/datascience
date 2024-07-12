@@ -1,0 +1,21 @@
+data science has a lot of definations for diffrent people 
+but most people agree that data science has a significant data analysis component
+
+data analysis is not new but the data is new there are a lot of new data sources
+
+DATA SCIENCE can help organisations :
+1. understand their environment
+2. analyse existing issue
+3. reveal previously hidden opportinities 
+
+DATA SCIENTIST in organization uses his knowledge and organization data 
+to recommend new opportinities or threats or insights for future
+
+many organisations use data SCIENTIST for a specific problem 
+>> so he needs to clarify the questions that the organisation wants to know
+>> what data do we need to solve the problem
+>> where will the data come from
+
+Data SCIENTIST can analyse structure and unstructured data from many sources
+
+after data is analysed data SCIENTIST becomes a story teller who has to explain the results to project stake holders
