@@ -1,0 +1,8 @@
+topics :
+1. data visualization (used to communicate results with people who dont understand data)
+2. regression (helps as basic bridgre for understanding data)
+3. neural networks 
+STRUCTURED DATA is more like tabular data which is represented using rows and columns 
+UNSTRUCTURED DATA is mostly comming from web where its not tabular its text/video/audio/image
+we usually take a lot of time and work to make UNSTRUCTURED data into STRUCTURED data 
+then work on analysing

@@ -1,0 +1,39 @@
+a data scientist as someone who finds solutions 
+to problems by analyzing Big or small data using appropriate tools and then tells stories to 
+communicate her findings to the relevant stakeholders
+
+data scientist isn't someone who's restricted to data sciece 
+he's someone who has a 
+        curious mind, 
+        fluency in analytics and 
+        the ability to communicate the findings 
+
+Dr Granville uses restrictions on data size and methods to define what data science is
+He defines a data scientist as one who can easily process a So-million-row data set in a couple of hours,
+and who distrusts (statistical) models
+
+He distinguishes data science from statistics. Yet he lists algebra, 
+calculus, and training in probability and statistics as necessary background to understand data science
+
+Stata, a commonly used software by data scientists and statisticians, 
+announced that one could now process between 2 billion to 24.4 billion rows using its desktop solutions
+
+Dr Patil told the Guardian newspaper in 2012 that a data scientist is that unique 
+blend of skills that can both 
+        unlock the insights of data and 
+        tell a fantastic story via the data.
+
+The other key ingredient for a successful data scientist is a behavioral trait: curiosity
+A data scientist has to be one with a very curious mind, willing to spend significant time and effort to explore her hunches
+
+Dr Schutt defined a 
+data scientist as someone who is 
+        a part computer scientist, 
+        part software engineer, and 
+        part statistician (Miller, 2013). 
+But that's the definition of an average data scientist. 
+"The best", she contended, 
+        "tend to be really curious people, 
+        thinkers who ask good questions and 
+        are O.K. dealing with unstructured situations and 
+        trying to find structure in them."

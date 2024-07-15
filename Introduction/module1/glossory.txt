@@ -14,3 +14,13 @@ STRUCTURED DATA : Data is organized and formatted into a
 UNSTRUCTURED DATA : Unorganized data that lacks a predefined data model or organization makes 
                     it harder to analyze using traditional methods. This data type often includes 
                     text, images, videos, and other content that doesn’t fit neatly into rows and columns like structured data.
+
+DATA FORMAT : 	How data is encoded so it can be stored within a data file type.
+
+DATA VISUALIZATIONS : 	A visual way, such as a graph, 
+                of representing data in a readily understandable way makes it easier to see trends in the data.
+
+hadoop : An open-source framework designed to store and process large datasets across clusters of computers.
+
+PANDAS : 	An open-source Python library that provides tools for working with structured data is often used for data manipulation and analysis.
+

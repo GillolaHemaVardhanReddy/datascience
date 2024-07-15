@@ -1,0 +1,40 @@
+understanding diffrent types of file formats :
+    you will be working with a variety of data file types and formats. It is importat to understand 
+    the underlying structure of file formats along with their benifits and limitations 
+this understanding will support you to make the right decision on the formats best suited for your data
+and performance needs.
+
+STANDARD FILE FORMATS :
+1. delimited text file formats or .CSV
+    * File used to store data as text
+    * Each value is separated by a delimiter 
+    * DILIMITER is a sequence of charecters for specifying the boundary between independent 
+      entities and values 
+    * most common dilimiter are: comma,tab , colon , vertical bar , space
+    * comma separated values --> .CSV
+    * tab separated values --> .TSV 
+2. microsoft Excel Open .XML spread sheet or .XLSX 
+    * microsoft EXCEL open XML file format that falls under the spreadsheet file format
+    * it is an .XML based file format created by microsoft
+    * it is a most secure file format which wont accept malicious code
+3. extensible markup language or .XML
+    * it is a markup language with set rules for encoding data 
+    * readable by both humans and machines 
+    * self descriptive language
+    * similar to .HTML in some aspects but does not use predefined tags like html
+    * platform independent
+    * programming language independent
+    * makes it easy to share data between systems
+4. portable Document format or .PDF
+    * it is a format developed by adobe to present documents independent of application software
+      ,hardware and OS
+    * can be viewed the same way on any device
+    * this format is used in legal and financial documents
+    * this format can also be used to full in data for forms
+5. java script object notation or .json
+    * it is a text based open standard designed for transmitting structure data over the web
+    * language independent data format 
+    * can be read in any programming language
+    * easy to use
+    * compattable with a wide range of browsers
+    * considered as one of the best forma for sharing data
