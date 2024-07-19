@@ -1,4 +1,7 @@
 
+data mining : it is a process of automatically searching and analysing data for discovering previously 
+unrevealed patterns 
+
 main steps of data mining :
 
 *** 

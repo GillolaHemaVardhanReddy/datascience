@@ -1,0 +1,27 @@
+MACHINE LEARNING : it is a subset of AI that uses computer algorithms to analyze data and
+                make intelligent decisions based on what it has learned without being explicitly programmed
+
+* machine learning algorithms are trained with large sets of data
+* they learn from examples
+* they do not follow rule based algorithms
+* machine learning is what enables machine to solve problems on its own and make accurate predictions based on data
+
+DEEP LEARNING : it is a subset of machine learning that uses layred neural networks to simulate 
+                human decision making
+
+* it can lable and categorize data and identify patterns 
+* it is what enables AI systems to learn on a job and improve quality and quantity of the job
+
+ARTIFICIAL NEURAL NETWORKS : it is also referred as neural networks took insiration from biological neural networks 
+            although they work quite a bit diffrently
+
+* a NN in AI is a collection of small computing units called neurons that take incomming data and 
+    learn to make decisions over time
+* NN are often layered deep which makes deeplearning algorithms efficient 
+
+
+***
+    data science and AI are not subsets of each other 
+    data science uses some important techniques of AI like ML
+    both AI and data science can use BIG DATA 
+***

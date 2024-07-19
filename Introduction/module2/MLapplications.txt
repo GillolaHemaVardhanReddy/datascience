@@ -1,0 +1,7 @@
+applications of ML :
+* classification
+* cluster analysis
+* market basket analysis
+* predictive analytics
+* recommendations 
+* fraud detection 

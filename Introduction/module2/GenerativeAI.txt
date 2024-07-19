@@ -1,0 +1,24 @@
+GERENATIVE AI : it is a subset of AI. that focuses on producing new data rather than just analysing existing one
+
+* it helps in creating content like Images,Music,Language,code etc.. 
+How does GERENATIVE AI  operate :?
+Deeplearning models like 
+     generative adversial networks (GANs)
+     variational auto-encoders (VAEs)
+
+APPLICATIONS OF GENERATIVE AI :
+* natural language processing
+* healthcare
+* ART and design
+* gaming
+* fashion and retail
+
+HOW DATA SCIENTISTS USE GENERATIVE AI :
+* building data models takes a lot of data 
+* data sets may not have enough data to build a model 
+    as we cannot find observations to build a model in many cases so we use sythetic data using generative AI
+* data SCIENTISTS can augument their data sets using generative ai to create synthatic data 
+* it creates new data which is exact math to original
+* after generative AI create this synthatic data we use it for model training and testing
+
+it solves data science efforts 

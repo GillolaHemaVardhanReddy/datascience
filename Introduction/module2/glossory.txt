@@ -1,0 +1,12 @@
+1. artificial neural networks : Collections of small computing units (neurons) that process data and learn to 
+                make decisions over time.
+
+2. cluster analysis : The process of grouping similar data points together based on certain features or attributes.
+
+3. coding automation : Using generative AI to automatically generate and test software code for constructing 
+                analytical models, freeing data scientists to focus on higher-level tasks.
+
+4. data mining : The process of automatically searching and analyzing data to discover patterns 
+                and insights that were previously unknown.
+
+5. Decision trees : A type of machine learning algorithm used for decision-making by creating a tree-like structure of decisions.
