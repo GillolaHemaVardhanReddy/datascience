@@ -1,0 +1,11 @@
+treditionally in computation and processing data 
+    we would bring the data to the computer
+in big data cluster : larry page and sergey brin came up with simple solution 
+        they took data and they sliced it into pieces and they distributed each 
+        and they replicated each piece or triplicated each piece and they would send pieces of these files 
+        to thousands of computers 
+        and then they would send the same program to all the computers in the cluster
+        and each computer would run the program on its little piece of the file and send the results back 
+        and then results are sorted and redistributed back to other processes 
+    the first process is called a map or mapper process 
+    and secound one is called reduce process 

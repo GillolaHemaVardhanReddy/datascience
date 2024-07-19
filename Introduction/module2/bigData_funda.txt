@@ -1,0 +1,54 @@
+defination by Ernst and Young
+BIG DATA : it refers to the dynamic,large and disparate volumes of data being created 
+by people,tools and machines. It requires new,innovative and scalable technology to collect,host and 
+analytcally process the vast amount of data gathered in order to derive realtime 
+bussiness insights that relate to consumers,risk,profit,performance, productivity management and enhanced shareholder value
+
+there are a lot of definations but every defination has some componenets in common :
+these are the V's of big data 
+    1. velocity
+        velocity is the speed at which the data accumulates
+        data is being generated extremly fast that never stops
+    2. volume 
+        volume is the scale of the data
+        or the increase in the data stored 
+    3. variety
+        variety is the diversity of data
+        structured data fits in rows and columns 
+        unstructured data is not predefined in an organized way like tweets,logposts,pictures,numbers and videos
+        variety also includes data comes from diffrent sources computers,people and processors 
+        DRIVERS are (mobile technologies, social media , wearable technologies , video etc...)
+    4. veracity
+        veracity is the quality and origin of data and it confirms the facts and accuracy.
+        attributes include 
+            * consistency
+            * completeness 
+            * integrity 
+            * ambiguity
+        drivers include cost and need for traceability
+        as data increases then there will be a debate for if the data is real or not in the digital world
+    5. value
+        value is our ability and need to turn data into value
+        value is not just profit it may have medical or social benifits, as well as customer , employee 
+        or personel satisfaction 
+        the main reason that people invest time to understand big data is to derive value from it 
+
+real life example of V's :
+    velocity : every 60s hours of footage is uploaded to youtube which is generating data
+                for every hr,day,years theres a lot incomming data
+    volume : the world population is approximately 7 billion people and the vast
+                majority are now using digital devices , mobile phones , desktop , laptops etc..
+                these devices all generate capture and store data -- approximately 2.5 quintillion bytes 
+    variety : data from wearable devices , and many different types of data from devices connected 
+                to the internet of things
+    veracity : 80% of data is considered to be unstructured and we must devise ways to produce
+                reliable and accurate insights
+                the data must be analyzed,categorized and visualized
+data scientists today derive insights from big data and cope with the challenges that these massive data sets present
+
+the scale of data being collected means that it's not feasible to use conventional data analysis tools 
+however tools that shared/distributed computing power can overcome this problem tools like 
+        apache spark,
+        hadoop 
+    and its echo system provide ways to extract , load , analyze and process data across distributed compute resources,
+    providing new insights and knowledge 

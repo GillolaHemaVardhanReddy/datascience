@@ -1,0 +1,126 @@
+
+main steps of data mining :
+
+*** 
+
+0. goal setting 
+
+The first step in data mining involves setting clear goals for the exercise. This process starts 
+with identifying the key questions that need to be answered. However, it's not enough to just pinpoint these questions; 
+you must also consider the costs and benefits of conducting the data mining exercise. Here are the main points to consider:
+
+1. Identifying Key Questions: Determine the specific questions you want to answer through data mining. 
+These questions will guide the direction of your analysis and help focus your efforts.
+
+2. Cost-Benefit Analysis: Assess the costs involved in the data mining exercise and weigh 
+them against the potential benefits. This analysis is crucial because it helps ensure that 
+the resources invested in data mining are justified by the expected outcomes.
+
+3. Expected Level of Accuracy: Decide in advance how accurate you need the results to be. 
+The desired accuracy level impacts the cost—higher accuracy typically requires more resources and 
+therefore incurs higher costs.
+
+4. Diminishing Returns: Understand that beyond a certain point, increasing accuracy yields diminishing returns. 
+This means that spending more to achieve marginally better accuracy may not be worth the investment. 
+It's important to find a balance where the accuracy of results is sufficient for your needs without incurring unnecessary costs.
+
+In summary, setting goals for data mining involves identifying key questions,
+ evaluating the cost-benefit trade-offs, and determining the desired level of accuracy. 
+ These considerations help ensure that the data mining exercise is both effective and efficient, 
+ providing valuable insights without excessive expenditure.
+
+***
+
+1. Selecting Data
+The output of a data-mining exercise largely depends upon the quality of data being used. 
+At times, data are readily available for further processing. 
+    For instance, retailers often possess large databases of customer purchases and demographics. 
+On the other hand, data may not be readily available for data mining. 
+    In such cases, you must identify other sources of data or even plan new data collection initiatives, 
+    including surveys. 
+The type of data, its size, and frequency of collection have a direct bearing on the cost 
+    of data mining exercise. Therefore, identifying the right kind of data needed for data mining 
+    that could answer the questions at reasonable costs is critical.
+
+*** 
+
+2. Preprocessing Data :
+
+Preprocessing data is an important step in data mining.
+Often raw data are messy, containing erroneous or irrelevant data.
+In addition, even with relevant data, information is sometimes missing.
+
+In the preprocessing stage, 
+    you identify the irrelevant attributes of data and exclude completely such attributes from further consideration.
+
+At the same time, identifying the erroneous aspects of the data set and flagging them as such is necessary
+
+For instance, human error might lead to inadvertent merging or incorrect parsing of information between columns
+
+Data should be subject to checks to ensure integrity
+
+Lastly, you must develop a formal method of dealing with missing data and determine whether 
+the data are missing randomly or systematically :
+If the data were missing randomly, a simple set of solutions would suffice.
+However, when data are missing in a systematic way, you must determine the impact of missing data on the results.
+
+For instance, a particular subset of individuals in a large data set may have refused to disclose their income. Findings 
+relying on an individual's income as input would exclude details of those individuals whose income was not reported.
+
+This would lead to systematic biases in the analysis. Therefore, you must consider in advance if observations or 
+variables containing missing data be excluded from the entire analysis or parts of it.
+
+***
+
+3. Transforming Data
+
+After the relevant attributes of data have been retained, 
+the next step is to determine the appropriate format in which data must be stored.
+
+An important consideration in data mining is to reduce the number of attributes needed to explain the phenomena
+
+This may require transforming data Data reduction algorithms, such as Principal Component Analysis which
+can reduce the number of attributes without a significant loss in information
+
+***
+
+4. storing data :
+
+The transformed data must be stored in a format that makes it conductive for data mining.
+The data must be stored in a format that gives unrestricted and immediate read/write privileges to the data scientist.
+
+During data mining, new variables are created, which are written back to the original database, 
+which is why the data storage scheme should facilitate efficiently reading from and writing to the database. 
+
+it is also important to store data on servers or storage media that keeps the data secure and also prevents the data mining algorithm 
+from unnecessarily searching for pieces of data scattered on different servers or storage media
+
+Data safety and privacy should be a prime concern for storing data.
+
+***
+
+5. Mining Data :
+
+After data is appropriately processed, transformed, and stored, it is subject to data mining
+
+This step covers data analysis methods, 
+including parametric and non-parametric methods, and machine-learning algorithms
+
+A good starting point for data mining is data visualization.
+
+Multidimensional views of the data using the advanced graphing capabilities of 
+data mining software are very helpful in developing a preliminary understanding of the 
+trends hidden in the data set.
+
+***
+
+6. Evaluating Mining Results :
+
+After results have been extracted from data mining, you do a formal evaluation of the results.
+
+Formal evaluation could include testing the predictive capabilities of the models 
+on observed data to see how effective and efficient the algorithms have been in reproducing data.
+This is known as an "in-sample forecast".
+
+In addition, the results are shared with the key stakeholders for feedback, 
+which is then incorporated in the later iterations of data mining to improve the process.

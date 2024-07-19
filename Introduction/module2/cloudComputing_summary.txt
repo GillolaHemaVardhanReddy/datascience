@@ -1,0 +1,22 @@
+* cloud computing is the delivery of on-demand computing resources over the internet on 
+a pay-for-use basis
+
+* cloud computing is composed of five essential charecteristics , three deployment models , 
+and three service models 
+
+* five essential charecteristics :
+    on demand self service 
+    broad network access 
+    resource pooling 
+    rapid elasticity 
+    measured service
+
+* three cloud computing models :
+    private
+    public
+    hybrid
+
+* three cloud service models are based on three layers in a computing stack :
+    IaaS
+    PaaS
+    SaaS

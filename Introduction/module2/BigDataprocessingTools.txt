@@ -1,0 +1,47 @@
+BIG DATA processing technologies provide ways to work with large sets of structured 
+semi structured , and unstructured data so that value can be derived from big data
+
+Apache hadoop : a collection of tools that provides distributed storage and processing of bigdata
+    * it is a java based open source framework 
+    * it allowes distributed storage and processing of large data sets across clusters of computers
+
+    *** 
+        in a hadoop distributed system : 
+            a node is a computer 
+            and a collection of nodes forms a cluster
+    ***
+    * hadoop can scale up from a single node to any no.of nodes each offering local storage
+    * hadoop provides reliable,scalable and costeffective solution for storing data with no format restrictions
+    ONE OF THE MAIN COMPONENTS OF HADOOP IS : HDFS Hadoop distributed file system
+    * HDFS is a storage system for big data that runs on multiple commodity hardware connected through 
+    a network
+        * hdfs provides scalable and reliable big data storage by partitioning files over multiple nodes 
+        * it splits large files across multiple computers allowing parallel access to them 
+
+    EXAMPLE :
+        if we hava a phone book with us whole ppl phone numbers we keep diffrent set of name in different servers 
+        lets say surnames with A on server 1 and B on 2 etc...
+
+        so with hadoop pieces/blocks of this phone book will be stored on cluster
+        to reconstruct the entire phone book your program would need the blocks from every server in the 
+        
+        HDFS also replicates these saller pieces onto two additiona servers by default 
+        ensuring availability when server fails
+
+        it allows hadoop cluster to breakup work into smaller chunks and run those jobs all servers on cluster for better scalability
+
+
+Apache hive : a data warehouse for data query and analysis built on top of hadoop 
+
+    * this is a software used for reading writing and managing large data set files that are stored directly in 
+        HDFS or other data storage systems such as Apache Hbase
+
+Apache spark : a distributed analytics framework for complex real time data analytics
+    * spark is a general purpose data processing engine designed to extract and process large volumes of data 
+        for a wide range of applications 
+    key attributes :
+            * has in-memory processing which significantly increases speed of computations
+            * provides interfaces for major programming languages such as java,Scala,Python,R and SQL
+            * can run using its standalone clustering technology 
+            * can also run on top of other infrastructures such as hadop
+            * can also access data in a large variety of data sources including hdfs and hive

@@ -1,0 +1,16 @@
+cloud allows a physical computer to bypass its limitations on storage
+it also helps to deploy a large complex algorithm
+
+if we have data and can't store on your pc you can send or store it in virtual storage space called cloud
+
+we can use really complex computation algorithm and use it on big data set using cloud even
+when your pc won't support
+
+cloud allows multiple entities to work on same dataset at same time
+
+using cloud enables us to get instant acces to open source technology or most uptodate tools without the need to locally installing
+or configuring them locally
+
+you don't have to worry about updating the tools you use using cloud it ensures they are up to date
+
+cloud is accessible using diffrent devices and multiple users accross glob

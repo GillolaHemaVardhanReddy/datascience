@@ -1,0 +1,54 @@
+1. analytics : The process of examining data to draw conclusions and make informed decisions is a fundamental 
+                aspect of data science, involving statistical analysis and data-driven insights.
+
+2. bigdata : Vast amounts of structured, semi-structured, and unstructured data are characterized by its volume, velocity, 
+            variety, and value, which, when analyzed, can provide competitive advantages and drive digital transformations.
+
+3. bigdata cluster : A distributed computing environment comprising thousands or tens 
+                of thousands of interconnected computers that collectively store and process large datasets.
+
+4. CDO chief data officer : An emerging role responsible for overseeing data-related initiatives, governance, 
+            and strategies, ensuring that data plays a central role in digital transformation efforts.
+
+5. CIO chief information officer : An executive is responsible for managing an organization's information 
+                technology and computer systems, contributing to technology-related aspects of digital transformation.
+
+6. cloud computing : The delivery of on-demand computing resources, including networks, servers, storage, 
+            applications, services, and data centers, over the Internet on a pay-for-use basis.
+
+7. cloud deployment models : Categories that indicate where cloud infrastructure resides, who manages it, and 
+            how cloud resources and services are made available to users, including public, private, and hybrid models.
+
+8. cloud service models : Models based on the layers of a computing stack, including Infrastructure as a Service (IaaS), 
+                Platform as a Service (PaaS), and Software as a Service (SaaS), represent different cloud computing offerings.
+
+9. data algorithms : Computational procedures and mathematical models used to process and analyze data 
+                made accessible in the cloud for data scientists to deploy on large datasets efficiently.
+
+10. deep learning : A subset of machine learning that involves artificial neural networks inspired by 
+                the human brain, capable of learning and making complex decisions from data on their own.
+
+11. distributed data : The practice of dividing data into smaller chunks and distributing them 
+                across multiple computers within a cluster enables parallel processing for data analysis.	
+
+12. hadoop : A distributed storage and processing framework used for handling and analyzing 
+                large datasets, particularly well-suited for big data analytics and data science applications.
+
+13. HDFS hadoop distributed file system : A storage system within the Hadoop framework that partitions 
+                and distributes files across multiple nodes, facilitating parallel data access and fault tolerance.
+
+14. Iaas infrastructure as a service : A cloud service model that provides access to computing infrastructure, 
+                including servers, storage, and networking, without the need for users to manage or operate them.
+
+15. MapProcess : The initial step in Hadoop’s MapReduce programming model, where data is 
+                processed in parallel on individual cluster nodes, often used for data transformation tasks.
+
+16. ReduceProcess : The second step in Hadoop's MapReduce model is where results from the mapping 
+                process are aggregated and processed further to produce the final output, typically used for analysis.
+
+17. Resource pooling : A cloud characteristic where computing resources are shared and 
+                dynamically assigned to multiple consumers, promoting economies of scale and cost-efficiency.
+
+18. V's of bigdata : 	A set of characteristics common across Big Data definitions, including Velocity, 
+                Volume, Variety, Veracity, and Value, highlighting the rapid generation, scale, diversity, quality, and value of data.
+

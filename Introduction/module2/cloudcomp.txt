@@ -1,0 +1,63 @@
+objectives :
+1. describe cloud computing concepts 
+2. define cloud deployment models and cloud service models
+3. identify the charecteristics of cloud computing
+
+what is cloud computing ?
+Delivery of ondemand computing resources like
+    * networks 
+    * servers
+    * storage
+    * applications 
+    * services 
+    * data centers
+over the internet on a pay for use basis
+
+cloud computing is applications and data that users access over the internet rather than locally
+    * online web applications
+    * secure online bussiness applications
+    * storing personal files eg: google drive , onedrive , dropbox
+user benifits :
+    * no need to purchase applications and install  them on local computer
+    * use online version of applications and pay monthly subscriptions
+    * more cost effective
+    * access most current software versions
+    * save localstorage space
+    * work collaboratively in real time
+
+cloud computing consists of :
+    5 charecteristics
+    3 deployment models
+    3 service models
+
+five charecteristics of coud computing :
+1. on demand self service 
+    where we get access to cloud resources :
+        * processing power
+        * storage
+        * and network 
+    using a simple interface 
+2. broad network access 
+    resources can be accessed via the network through standard mechanisms and platforms
+    such as mobilephone , laptop , tablet
+3. resource pooiling is what gives cloud providers economies of scale and pass on to their customers 
+    making cloud cost efficient 
+4. rapid elasticity implies that we can access more resources when we need them and scale back when we don't
+5. measured services means we only pay for only what we use 
+    resource usage is measured,monitered and reported based on user utilization
+
+cloud deployment models indicate where the infrastructure resides who owns and manages it and how cloud resources and services
+are made available to users
+
+3 TYPES of cloud deployment models :
+
+1. private cloud : this cloud infrastructure is provisioned exclusively for specific firm
+2. public cloud : this is shared and used by many companies over open internet 
+its on hardware of cloud provider but used by other companies
+3. hybrid cloud : mix of above two
+
+3 cloud service models based on 3 layers on computing stack :
+    1. IaaS : infrastructure as a service
+    2. PaaS : platform as a service
+    3. SaaS : software as a service
+
