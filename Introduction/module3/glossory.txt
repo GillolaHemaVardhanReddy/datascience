@@ -1,0 +1,7 @@
+1. Adobe Spark : A suite of software tools that allow users to create and share visual content such as 
+    graphics, web pages, and videos.
+
+2. Executive summary : Usually occurring at the beginning of a research paper, this section 
+    summarizes the important parts of the paper, including its key findings.
+
+3. stata : A software package used for statistical analysis.
