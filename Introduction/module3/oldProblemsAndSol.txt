@@ -1,0 +1,11 @@
+organizations can levirage the almost unlimited amount of data now available to them in a growing no.of ways
+
+however all organizations ultimately use data science for same reason to discover optimum solutions for
+existing problems 
+
+examples : real time
+
+Uber collects realtime user data to discover how many drivers are available if more needed and if they should allow a surge
+charge to attract more drivers 
+
+uber uses data to put right no.of drivers at right place at the right time 

@@ -1,0 +1,12 @@
+Final deliverables refer to the completed outputs or products that result from a project or process, 
+which are presented to stakeholders, clients, or evaluators. These deliverables are intended to 
+demonstrate the outcomes, findings, or conclusions of the work undertaken.
+
+1. practical context : Final deliverables in practical settings are typically the communicated insights 
+derived from analytics. These insights can be used by stakeholders to make informed decisions or formulate 
+strategies and policies.
+
+2. academic context : In academia, final deliverables often take the form of essays or reports. 
+These documents comprehensively present the findings of research or analysis, typically ranging from 
+1,000 to 7,000 words in length. They include a detailed narrative that explains the data, the analysis 
+performed, the insights gained, and the implications of those insights.
