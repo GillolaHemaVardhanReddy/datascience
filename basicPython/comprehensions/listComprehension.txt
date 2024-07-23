@@ -1,0 +1,2 @@
+LIST COMPREHENSION :
+    syntax : output_list = [output_exp for var in input_list if (var satisfies this condition)]
