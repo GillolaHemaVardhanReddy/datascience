@@ -1,0 +1,4 @@
+there are three data structures in pandas:
+1. Series : 1D labeled arrays pd.series(data)
+2. DataFrames : 2D data structure with columns much like a table
+3. Panel : a Panel is 3D container of data

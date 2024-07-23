@@ -1,9 +1,0 @@
-LEARNING OBJECTIVES
-In this course you will learn about:
-
-1. Data Acquisition
-2. How to Obtain Basic Insight From a Dataset
-3. Data Wrangling
-4. Exploratory Data Analysis
-5. Model Development
-6. Model Evaluation

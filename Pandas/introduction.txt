@@ -1,0 +1,10 @@
+pandas is a python library used for working with data sets
+* it has functions for analysing,cleaning,exploring and manipulating data 
+* it reads and writes diffrent data structures and diffrent formats like csv,xml,excel,json,zip,etc...
+
+uses : 
+1. pandas allows us to analyze big data and make conclusions based on statistical theories 
+2. pandas can clean messy data sets , and make them readable and relevent
+3. easy handling of missing data in floating point as well as non-floating points
+4. columns can be inserted and deleted from data frame and higher dimensional objects 
+5. dataset merging and joining
