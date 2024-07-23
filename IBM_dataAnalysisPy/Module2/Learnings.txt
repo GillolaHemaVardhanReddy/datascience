@@ -1,0 +1,10 @@
+objectives :
+    1. Identify and handle missing values
+    2. data formatting (multiple diffrent formats to convert to same format using pandas)
+    3. Data normalization : diffrent columns of diffrent columns have very diffrent ranges which makes direct comparision 
+                            meaningless
+                            normalization is a way to make all the data into similar range for more useful comparision
+        (centering/scaling)
+    4.  data binning : it creates bigger categories for a set of numerical values which is used for comparision between 
+                        group of data
+    5. turing categorical values to numeric variables

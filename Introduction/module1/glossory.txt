@@ -22,5 +22,5 @@ DATA VISUALIZATIONS : 	A visual way, such as a graph,
 
 hadoop : An open-source framework designed to store and process large datasets across clusters of computers.
 
-PANDAS : 	An open-source Python library that provides tools for working with structured data is often used for data manipulation and analysis.
+PANDAS : An open-source Python library that provides tools for working with structured data is often used for data manipulation and analysis.
 

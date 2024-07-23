@@ -1,0 +1,15 @@
+python packages/libraries for data science: 
+
+python data analysis libraries are of 3 groups they are :
+
+    1. sientific computing libraries:
+        * pandas: offers data structures and tools for effective data manipulation and analysis
+        * numpy : it provides arrays and matrices for faster processing with high computation speed
+        * scipy : includes functions for some complex maths like = integrals,solving diffrential equations,optimizations
+    2. visualization libraries :
+        * matplotlib : great for making graphs and plots => graphs are highly coustamizable
+        * seaborn : it is built on matplotlib to draw more charts like => heatmaps,time series , voilin plots
+    3. algorithmic libraries : 
+        * scikit-learn : used to suply machin learning algo like regression, classification , clustering etc...
+                        this library is built on numpy,scipy and matplotlib 
+        * stats models : allows users to explore data , estimate statistical models and tests

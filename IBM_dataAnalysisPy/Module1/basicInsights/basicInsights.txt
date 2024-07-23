@@ -1,0 +1,7 @@
+After reading data into Pandas dataframe, it is time for you to explore the data set.
+There are several ways to obtain essential insights of the data to help you better understand it.
+
+Data Types
+Data has a variety of types.
+The main types stored in Pandas data frames are object, float, int, bool and datetime64. 
+In order to better learn about each attribute, you should always know the data type of each column. In Pandas:

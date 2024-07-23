@@ -1,0 +1,36 @@
+data wraggling : Data wrangling, also known as data munging or data cleaning or data preprocessing, is the process of cleaning, transforming, 
+and preparing raw data for analysis.
+This process involves various steps to ensure that the data is in the right format, consistent, 
+and free of errors or missing values, making it suitable for analysis and visualization
+
+this process includes steps :
+    1. Data Cleaning: Identifying and correcting errors, inconsistencies, and inaccuracies in the data. 
+        This can involve handling missing values, removing duplicates, and correcting data types.
+
+    2. Data Transformation: Converting data from one format or structure to another. This includes normalizing or 
+        standardizing data, encoding categorical variables, and creating new features or columns.
+    
+    3. Data Integration: Combining data from multiple sources to provide a unified dataset. 
+        This can involve merging, joining, or concatenating datasets, as well as aligning data from different sources.
+
+    4. Data Reduction: Simplifying the dataset by reducing the number of variables or observations. 
+        This can be achieved through techniques like dimensionality reduction, aggregation, and filtering
+    
+    5. Data Enrichment: Enhancing the dataset by adding additional information from external sources. 
+        This can involve merging in data from other databases, APIs, or other relevant sources.
+    
+    6. Data Validation: Ensuring that the data is accurate, complete, and consistent. 
+        This step often includes validating data against predefined rules or standards.
+    
+    7. Data Structuring: Organizing data into a structured format suitable for analysis. 
+        This involves creating tables, defining relationships, and setting up the necessary schema for the data.
+
+
+The goal of data wrangling is to transform raw data into a 
+clean and usable form that can be easily analyzed, visualized, and used for decision-making processes.
+
+
+pre processing : the process of converting or mapping data from the initial "raw" form into another format 
+                inorder to prepare the data for further analysis
+
+data preprocessing is often called data wrangling or data cleaning

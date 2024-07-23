@@ -1,0 +1,6 @@
+In this module
+1. A problem requiring data analysis
+2. A data set to be analysed in python 
+3. overview of python packages for data analysis
+4. importing and exporting data in python
+5. basic insights from data set
