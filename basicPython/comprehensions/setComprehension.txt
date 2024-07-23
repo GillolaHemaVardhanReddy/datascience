@@ -1,5 +1,0 @@
-SET COMPREHENSIONS
-Set comprehensions are pretty similar to list comprehensions. 
-The only difference between them is that set comprehensions use curly brackets { }
-
-    syntax : {same as list}

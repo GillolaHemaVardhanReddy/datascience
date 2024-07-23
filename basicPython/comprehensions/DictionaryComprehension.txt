@@ -1,4 +1,0 @@
-DICTIONARY COMPREHENSION
-Extending the idea of list comprehensions, we can also create a dictionary using dictionary comprehensions. 
-The basic structure of a dictionary comprehension looks like below.
-    syntax : output_dict = {key:value for (key, value) in iterable if (key, value satisfy this condition)}
