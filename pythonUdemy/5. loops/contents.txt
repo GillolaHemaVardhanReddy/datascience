@@ -1,0 +1,4 @@
+objectives :
+1. for loops
+2. range 
+3. code blocks

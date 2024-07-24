@@ -1,0 +1,4 @@
+Objectives:
+1. functions
+2. code blocks
+3. while loops
