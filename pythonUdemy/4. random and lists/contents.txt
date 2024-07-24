@@ -1,0 +1,3 @@
+Objectives:
+1. randomization
+2. lists

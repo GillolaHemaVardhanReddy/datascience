@@ -1,0 +1,4 @@
+Objectives :
+1. conditional statements
+2. logical operators
+3. code blocks and scope

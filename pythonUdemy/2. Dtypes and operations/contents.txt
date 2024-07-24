@@ -1,0 +1,6 @@
+Objectives :
+1. data types
+2. numbers
+3. operations
+4. type conversions
+5. f-strings
