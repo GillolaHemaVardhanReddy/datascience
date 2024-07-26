@@ -1,0 +1,4 @@
+objectives:
+1. inheritance
+2. slicing
+3. finishing snake game

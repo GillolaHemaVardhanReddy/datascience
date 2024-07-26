@@ -1,0 +1,4 @@
+objectives:
+1. more turtle graphics
+2. event listners
+3. state and multiple instances

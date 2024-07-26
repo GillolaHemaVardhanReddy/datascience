@@ -1,0 +1,13 @@
+TK inter module : is one of the ways you can create Graphical User Interface GUI
+
+
+1. import keyword
+    to import a module we will just use syntax: import moduleName
+    to import something from module we use syntax: 
+        from moduleName import something (something may be a class/function/attribute)
+    to import everything from that module we use syntax:
+        from moduleName import *
+        better not use this for long projects
+    if module name or something from module has long names we can alias the name and use it instead of long ones
+        syntax : from moduleName import something as x
+    
