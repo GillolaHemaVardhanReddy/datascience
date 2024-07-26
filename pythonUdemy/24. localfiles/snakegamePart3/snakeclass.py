@@ -57,6 +57,12 @@ class Snake:
         if self.segments[0].heading() != 90:
             self.segments[0].setheading(270)
 
+    def reset(self):
+        for seg in self.segments:
+            seg.goto(1000,1000)
+        self.segments.clear()
+        self.createsnake()
+
     def changedirection(self):
         """this function changes snakes direction according to keyboard press"""
         screen.onkeypress(self.left,"Left")

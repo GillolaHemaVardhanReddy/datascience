@@ -27,12 +27,12 @@ while(active):
 
     # boundary detection
     if snake.detectboundary() :
-        score.gameover()
-        active = False
+        score.reset()
+        snake.reset()
 
     # self collision detection
     if snake.detectselfcollision() :
-        score.gameover()
-        active = False
+        score.reset()
+        snake.reset()
 
 screen.exitcondition()
