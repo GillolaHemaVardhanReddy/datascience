@@ -1,0 +1,4 @@
+objectives:
+1. working with local files
+2. working with directories
+3. improved snake game
