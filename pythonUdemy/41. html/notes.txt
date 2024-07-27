@@ -1,0 +1,4 @@
+when searched on internet from any device it sends a signal to your isp (internet service provider)
+then isp relays it to dns (domain name system) and then it searches for it's ip address and then it gets the results
+
+** nslookup.io gives ip address of particular search **

@@ -1,0 +1,46 @@
+inside rule => property : value
+ 
+1. element selector :
+
+syntax: 
+elementName {
+    css
+}
+
+eg: h1,h2 {
+    color: "blue"
+}
+
+2. class selector
+
+syntax: 
+.className {
+    css
+}
+
+3. id selector
+
+syntax: 
+#IdName {
+    css
+}
+
+4. attribute selector :
+
+syntax: 
+element[attribute]{
+    css
+}
+
+<h1 name="rajesh">hello man</h1>
+eg: h1[name = "rajesh"]{
+    color: "blue"
+}
+
+5. universal selector:
+syntax :
+* {
+    css
+}
+
+this is applied to all elemets
