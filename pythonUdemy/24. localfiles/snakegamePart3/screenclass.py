@@ -19,6 +19,7 @@ class ScreenCtrl:
             title
         """
         self.screen = Screen()
+        self.quit = 0
         self.screen.setup(width=w,height=h)
         self.screen.bgcolor(screencolor)
         self.screen.title(title)
@@ -29,5 +30,11 @@ class ScreenCtrl:
         self.screen.update()
         time.sleep(0.1)
 
+    def exit(self):
+        self.quit = 1
+
     def exitcondition(self):
+        self.screen.onkeypress(self.exit,"Escape")
+    
+    def exittouch(self):
         self.screen.exitonclick()

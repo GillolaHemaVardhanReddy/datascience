@@ -14,6 +14,7 @@ snake.changedirection()
 active = True
 food = Food()
 score = Score()
+screen.exitcondition()
 
 while(active):
     screen.updatechange()
@@ -35,4 +36,8 @@ while(active):
         score.reset()
         snake.reset()
 
-screen.exitcondition()
+    if screen.quit :
+        score.gameover()
+        active = False
+
+screen.exittouch()

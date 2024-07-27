@@ -1,0 +1,29 @@
+absolute file path:
+/ => represents C drive or root folder
+/programFiles => now we entered programFiles folder
+/snakegame => entered snakegame folder and we have access to all files in it
+/snakegame/main.py => now we are accessing main.py in snakegame folder
+
+relative file path: this path is like getting access for other files/folders from current folder 
+folder structure:
+projects
+    snakegame
+        classes
+            class1.py
+            class2.py
+        main.py
+    ponggame
+        classes
+            class3.py
+        main.py
+
+lets say we are in snakegame folder
+to access main.py we use relative path 
+    ./main.py
+to access class1.py in classes we use
+    ./classes/class1.py
+to access ponggame folder we use
+    ../ponggame
+
+./ => this represent current folder
+../ => this represent upper folder relative to current folder
