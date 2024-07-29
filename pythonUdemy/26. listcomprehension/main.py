@@ -9,6 +9,12 @@ dic = {row.letter:row.code for (ind,row) in file.iterrows()}
 
 #TODO 2. Create a list of the phonetic code words from a word that the user inputs.
 
-word = input("enter any word: ").upper()
-x = [dic[w] for w in word ]
-print(x)
+def generatewords():
+    word = input("enter any word: ").upper()
+    try:
+        x = [dic[w] for w in word ]
+    except KeyError as errmsg:
+        print("Sorry, only letters in the alphabet please")
+        generatewords()
+    else:
+        print(x)
