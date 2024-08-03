@@ -1,0 +1,11 @@
+environment variables are used to hide sensitive information and repeatable constant in a large
+project
+
+just use syntax :
+    export variablename=variablevalue
+
+using this syntax will store the variable and its value in the local os
+inorder to use he local environmental variables we use python library named os
+
+import os 
+os.environ.get("variablename")

@@ -1,0 +1,5 @@
+objectives:
+1. API keys
+2. Authentication
+3. Environment variables
+4. sending sms
