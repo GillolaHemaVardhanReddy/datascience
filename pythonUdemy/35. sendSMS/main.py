@@ -4,7 +4,7 @@ from twilio.rest import Client
 apikey = "1259e4550a8e1dcf27b38835ada745ac"
 url = "https://api.openweathermap.org/data/2.5/forecast"
 ac_sid = "ACa7de503a573aabe7d63c856b9a9a6a2c"
-# auth_token = "e2025e98bb0f24803c33ffbbecd1132a"
+# use the damn tk in 2nd parameter = "e2025e98bb0f24803c33ffbbecd1132a"
 
 
 parameters = {
