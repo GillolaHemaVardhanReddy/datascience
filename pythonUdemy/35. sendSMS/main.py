@@ -1,8 +1,10 @@
 import requests as req
 from twilio.rest import Client
 
-apikey = "1259e4550a8e1dcf27b38835ada745ac"
+apikey = ""
 url = "https://api.openweathermap.org/data/2.5/forecast"
+ac_sid = ""
+auth_token = ""
 
 
 parameters = {
