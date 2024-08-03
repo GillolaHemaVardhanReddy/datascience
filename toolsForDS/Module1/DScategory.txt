@@ -1,0 +1,30 @@
+1. data management :
+    * collecting, persisting, and retriving data securely, effectively, and cost effectively
+    * data is collected from many sources
+2. data integration and transformation 
+    * it is a process of extracting, transforming and loading (ETL)
+    * extract the data and sae it in the central repository like a data wearhouse
+    * data transformation is the process of transforming the values, structure and format of data
+    * transformed data is loaded back to the data warehouse
+3. data visualization 
+    * graphical representation of data and information in form of charts, lots, maps, and animations 
+    * it conveys data more efficiently
+4. model building
+    * model building is a step where you train data and analyze patterns using suitable machine learning algorithms 
+    * create ML models using ibm watson machine learning
+5. model deployment
+    * integrating a model into a production environment
+    * model deployment uses apis to enable data based decisions
+6. model monitoring and assessment
+    * track perfpormance of the model in production environment
+    * model assessment checks for accuracy, fairness, and robust monitoring
+
+
+to do above all we need 
+1. data asset management 
+2. code asset management (github)
+    * it is a unified view where you manage an inventory of assets 
+    * developers use versioning to track and manage changes to a software projects code
+3. development environment
+    * provides tools and workspace
+4. execution environments

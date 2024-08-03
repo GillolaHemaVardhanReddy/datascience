@@ -1,0 +1,4 @@
+what I will learn :
+    * List the tasks that a datascientist needs to perform
+    * Show how code asset management and data asset management help build models
+    * describe how execution and development environments implement a model
